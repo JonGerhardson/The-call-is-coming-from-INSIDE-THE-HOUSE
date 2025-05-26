@@ -1,0 +1,73 @@
+Saample data 
+
+
+ExifTool Version Number         : 12.40
+File Name                       : IMG_0612.JPG
+Directory                       : .
+File Size                       : 3.9 MiB
+File Modification Date/Time     : 2020:07:22 10:15:30-04:00
+File Access Date/Time           : 2020:07:22 10:15:30-04:00
+File Inode Change Date/Time     : 2025:05:26 03:54:53-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Apple
+Camera Model Name               : iPhone 4
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 7.1.2
+Modify Date                     : 2020:07:22 10:15:30
+Host Computer                   : iPhone OS 7.1.2
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/120
+F Number                        : 2.8
+Exposure Program                : Program AE
+ISO                             : 80
+Exif Version                    : 0221
+Date/Time Original              : 2020:07:22 10:15:30
+Create Date                     : 2020:07:22 10:15:30
+Offset Time Original            : +06:30
+Offset Time Digitized           : +06:30
+Components Configuration        : Y, Cb, Cr, -
+Metering Mode                   : Multi-segment
+Sub Sec Time Original           : 175
+Sub Sec Time Digitized          : 175
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Scene Capture Type              : Standard
+Lens Model                      : iPhone 4 back camera 3.85mm f/2.8
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 722
+Thumbnail Length                : 37641
+XMP Toolkit                     : Image::ExifTool 12.40
+Flash Fired                     : False
+Flash Function                  : False
+Flash Mode                      : Off
+Flash Red Eye Mode              : False
+Flash Return                    : No return detection
+Image Width                     : 1936
+Image Height                    : 2592
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 2.8
+Image Size                      : 1936x2592
+Megapixels                      : 5.0
+Shutter Speed                   : 1/120
+Create Date                     : 2020:07:22 10:15:30.175+06:30
+Date/Time Original              : 2020:07:22 10:15:30.175+06:30
+Thumbnail Image                 : (Binary data 37641 bytes, use -b option to extract)
+Flash                           : Off, Did not fire
+Light Value                     : 10.2
+Lens ID                         : iPhone 4 back camera 3.85mm f/2.8
